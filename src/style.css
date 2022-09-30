@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.dumb-elem1{
+  border: 6px solid magenta;
+}
+.dumb-elem2{
+  border: 6px solid cyan;
+}
+.dumb-elem3{
+  border: 6px solid salmon;
+}
